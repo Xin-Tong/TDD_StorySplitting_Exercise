@@ -1,1 +1,1 @@
-# TDD_StorySpliting_Exercise
+# TDD_StorySplitting_Exercise
